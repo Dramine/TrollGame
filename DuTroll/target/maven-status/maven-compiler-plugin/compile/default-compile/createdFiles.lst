@@ -1,0 +1,7 @@
+Strat\HumanStrat.class
+utils\Opt.class
+Strat\OptStrat.class
+App.class
+Jeu\Castle.class
+Strat\RandomStrat.class
+Jeu\Game.class
